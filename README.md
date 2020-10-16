@@ -5,6 +5,6 @@
 03 Nom: Jia FU
 03 github:
 04 Nom: Julien LOUARD
-04 github:
+04 github: jlouard
 05 Nom: Théo COMMUNAL
 05 github:
